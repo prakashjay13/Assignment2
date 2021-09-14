@@ -1,0 +1,274 @@
+.carousel-caption h3  {
+    margin-top: 15px;
+    font-size: 36px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      color: black;
+  }
+  p{
+      color: black;
+  }
+  #col{
+      background-color:darkgrey;
+  }
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+.headerset h2{
+    font-size: 42px;
+}
+.headerset h1{
+    font-size: 82px;
+    font-weight: bold;
+}
+
+@media(min-width:480px) and (max-width:574px)
+{
+    .headerset h2{
+        font-size: 22px;
+    }
+    .headerset h1{
+        font-size: 42px;
+        font-weight: bold;
+    } 
+}
+
+.bluebold{
+    color: deepskyblue;
+}
+
+#lblCartCount {
+    font-size: 12px;
+    background:lightskyblue;
+    vertical-align: top;
+}
+
+#twh{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 80px;
+    color: black;
+}
+
+#esp{
+    font-style: italic;
+    font-weight: bolder;  
+    color: black;
+}
+
+.p1{
+    margin: 0;
+}
+
+#sn1{
+    background-color: black;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button { 
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {
+      padding: 12px 40px;
+      background-color: deepskyblue;
+    }
+  .button2 {padding: 12px 40px;
+    background-color: tomato;
+}
+  .button3 {padding: 12px 40px;
+    background-color: gold;
+}
+
+
+#col{
+    background-color:darkgrey;
+}
+.tmar{
+    margin-top: 20px;
+}
+.pad{
+    height: 40px;
+    width:33%;
+    padding-top: 1%;
+}
+#p1:hover{
+    color: blue;
+}
+.card-text{
+    color: red;
+}
+.fa-star{
+    color: yellow;
+}
+.mgl{
+    margin-left: 1%;
+}
+.ee{
+  background-color: white;
+}
+.padd{
+  height: 40px;
+  width:8%;
+  padding-top: 1%;
+}
+.ss{
+  height: 200px;
+  width:300px;
+}
+#pa{
+  height: 300px;
+}
+
+
+#button-addon1 {
+    color: #ffc371
+}
+
+i {
+   
+    font-size: 20px
+}
+
+.form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic
+}
+
+.form-control.shadow-0:focus {
+    box-shadow: none
+}
+
+.display-3 {
+    font-family: 'Sanchez', serif
+}
+
+p {
+    font-family: 'Tajawal', sans-serif
+}
+
+.lead {
+    font-family: 'Sanchez 200', serif
+}
+
+#qh1{
+    width: 100%;
+    height: 350px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-instagram {
+    background: violet;
+    color:white;
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-youtube {
+    background:red;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-pinterest {
+    background: #bb0000;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+
+  #lrm{
+      background-color: black;
+      background: black;
+      
+  }
+
+  #pqr{
+      color: blanchedalmond;
+  }
+
+  .dot {
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+  }
+
+  #dot1{
+      background-color: blue;
+ }
+
+ #dot2{
+    background-color:red;
+}
+
+#dot3{
+    background-color:yellow;
+}
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color:white;
+    color:black;
+    width: 100%;
+  }
